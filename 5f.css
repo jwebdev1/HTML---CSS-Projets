@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.mid {
+    text-align: center;
+    margin-top: 30px;
+}
+.first {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.word {
+    font-size: 18px;
+    color: rgb(96, 96, 96);
+    font-weight: normal;
+}
+.sec {
+    color: rgb(108, 214, 108);
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.thir {
+    color: rgb(96, 96, 96);
+    font-size: 18px;
+}
+.num{
+    color: red;
+    font-size: 18px;
+}

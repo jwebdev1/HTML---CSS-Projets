@@ -1,0 +1,32 @@
+.cat {
+    width: 350px;
+}
+.container {
+    position: relative;
+    width: 350px;
+}
+.info {
+    position: absolute;
+    color: pink;
+    background-color: rgba(255, 255, 255, 0.512);
+    top: 10px;
+    right: 0;
+    padding: 8px 15px 8px 15px;
+}
+.but-info {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.833);
+    height: 100px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+}
+.add {
+    margin-top: 20px;
+    padding: 10px 15px 10px 15px;
+    border: 2px black solid;
+    font-size: 16px;
+    cursor: pointer;
+}

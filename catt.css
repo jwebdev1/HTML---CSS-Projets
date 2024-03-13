@@ -1,0 +1,7 @@
+.catt {
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+    object-position: center;
+    border: 1px red solid;
+}

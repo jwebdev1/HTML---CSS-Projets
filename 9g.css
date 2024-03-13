@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.card {
+    margin-left: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 200px;
+    height: 330px;
+    display: inline-block;
+}
+.cat {
+    width: 200px;
+    margin-bottom: 8px;
+}
+.oli {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+.mut {
+    color: rgb(96, 96, 96);
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+.add {
+    margin-left: 10px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 255, 0.813);
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+}
+.add:hover {
+    opacity: 0.8;
+}
+.add:active {
+    opacity: 0.6;
+}

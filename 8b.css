@@ -1,0 +1,13 @@
+.des {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.yes {
+    vertical-align: middle;
+    cursor: pointer;
+}
+.no {
+    vertical-align: middle;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.addy {
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+.blue {
+    background-color: blue;
+}
+.pink {
+    background-color: pink;
+}

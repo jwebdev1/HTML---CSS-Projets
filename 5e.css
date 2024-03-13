@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.mid {
+    text-align: center;
+}
+.new {
+    font-size: 18px;
+    color: orange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.mac {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.super {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.from {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.buy {
+    padding: 8px 15px 8px 15px;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    background-color: #0071E3;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}

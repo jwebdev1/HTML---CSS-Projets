@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.main {
+    margin-left: 20px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    border: 1px gray solid;
+    width: 400px;
+    border-radius: 8px;
+}
+.first {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 20px 10px 20px;
+}
+.text {
+    font-weight: bold;
+    font-size: 18px;
+}
+.idd {
+    color: white;
+    background-color: rgba(0, 0, 255, 0.845);
+    font-size: 18;
+    padding: 10px 20px 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70px;
+    border: 1px gray solid;
+    align-items: center;
+}
+.item1 {
+    background-color: pink;
+}
+.item2 {
+    background-color: pink;
+}

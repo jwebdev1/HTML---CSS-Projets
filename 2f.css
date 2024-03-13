@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aa{
+    margin-left: 20px;
+}
+.nike{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.st{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(0, 118, 0);
+}
+.free{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.add{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    padding: 8px 25px 8px 25px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(255, 216, 20);
+    cursor: pointer;
+}
+.buy{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    padding: 8px 22px 8px 22px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(255, 164, 28);
+    cursor: pointer;
+}

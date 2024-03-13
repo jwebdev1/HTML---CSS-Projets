@@ -1,0 +1,46 @@
+.search {
+    padding: 10px 10px 10px 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px rgb(96, 96, 96) solid;
+    margin-bottom: 50px;
+}
+p {
+    color:  rgb(96, 96, 96);
+}
+.box {
+    padding: 10px 100px 10px 100px;
+    border-radius: 8px;
+    border: 2px rgb(96, 96, 96) solid;
+}
+.agree {
+    padding: 20px 80px 20px 80px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(23, 23, 226, 0.7);
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.google {
+    padding: 10px 200px 10px 10px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+}
+.pro {
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+}
+.tew {
+    vertical-align: middle;
+}
+.hat {
+    vertical-align: middle;
+}

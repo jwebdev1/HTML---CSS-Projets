@@ -1,0 +1,16 @@
+.goog {
+    margin-left: 130px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    display: block;
+    width: 300px;
+}
+.text {
+    padding: 12px 250px 12px 20px;
+    width: 300px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    font-size: 20px;
+    margin-left: 20px;
+}

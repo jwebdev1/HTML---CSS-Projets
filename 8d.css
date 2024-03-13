@@ -1,0 +1,28 @@
+.first {
+    margin-right: 5px;
+    padding: 8px 10px 8px 10px;
+    border-radius: 5px;
+    border: 1px rgb(96, 96, 96) solid;
+}
+.last {
+    margin-bottom: 10px;
+    padding: 8px 10px 8px 10px;
+    border-radius: 5px;
+    border: 1px rgb(96, 96, 96) solid;
+}
+.email {
+    display: block;
+    padding: 8px 180px 8px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px rgb(96, 96, 96) solid;
+}
+.sign {
+    padding: 8px 135px 8px 135px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+}

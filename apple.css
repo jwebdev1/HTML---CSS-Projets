@@ -1,0 +1,12 @@
+.sample{
+    padding: 8px 12px 8px 12px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+span:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    
+}

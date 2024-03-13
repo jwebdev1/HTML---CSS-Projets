@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.tweet {
+    margin-top: 30px;
+    margin-left: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    height: 130px;
+    width: 700px;
+    border-radius: 8px;
+}
+.pro {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+.what {
+    vertical-align: middle;
+    padding: 15px 220px 15px 20px;
+    border: none;
+    font-size: 18px;
+}
+.twet {
+    vertical-align: middle;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: #1D9BF0;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.twet:hover {
+    opacity: 0.8;
+}
+.twet:active {
+    opacity: 0.6;
+}

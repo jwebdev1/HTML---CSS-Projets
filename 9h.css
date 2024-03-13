@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.goog {
+    margin-top: 100px;
+    text-align: center;
+}
+.pic { 
+    width: 350px;
+    margin-bottom: 30px;
+}
+.search {
+    margin-bottom: 30px;
+    padding: 20px 600px 20px 30px;
+    font-size: 25px;
+    width: 350px;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+.first {
+    padding: 20px 40px 20px 40px;
+    font-size: 22px;
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.first:hover {
+    opacity: 0.8;
+}
+.feel {
+    padding: 20px 40px 20px 40px;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+}
+.feel:hover {
+    opacity: 0.8;
+}
